@@ -1,4 +1,9 @@
 .sectionWrapper {
-    background: white;
-    padding: 1rem;
+  background: white;
+  padding: 1rem;
+}
+
+.divider {
+  border: 1px solid black;
+  border-radius: 8px;
 }

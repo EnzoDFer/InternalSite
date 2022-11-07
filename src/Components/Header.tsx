@@ -2,10 +2,10 @@ import styles from './Header.module.css';
 
 export const Header = (): JSX.Element => {
   return (
-    <div
+    <header
       className={styles.headerWrapper}
     >
       Test
-    </div>
+    </header>
   );
 }

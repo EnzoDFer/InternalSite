@@ -1,5 +1,5 @@
 .headerWrapper {
-  grid-column: span 2;
+  grid-area: header;
   background-color: white;
   position: sticky;
   padding: 1rem;

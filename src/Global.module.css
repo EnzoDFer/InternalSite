@@ -1,0 +1,9 @@
+.page {
+  display: grid;
+  grid-template-columns: 0.4fr 1fr; 
+  grid-template-rows: 1fr 1fr; 
+}
+
+.page > div:first-child {
+  grid-column: span 2;
+}

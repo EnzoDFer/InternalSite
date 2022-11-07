@@ -1,0 +1,6 @@
+.userBanner {
+  composes: sectionWrapper from "./Section.module.css";
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
